@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📂 Structure
+- [Case Studies](./case-studies)
+- [Experiments](./experiments)
+- [Frameworks](./frameworks)
+- [Resume](./resume)
