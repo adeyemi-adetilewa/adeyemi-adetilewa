@@ -55,10 +55,10 @@ I focus on building assets that compound over time.
 
 ## 📬 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/adeyemi-adetilewa)  
+- LinkedIn: [My LinkedIn](https://linkedin.com/in/adeyemi-adetilewa)  
 - Newsletter: [The Digital Strategist](#)  
-- Website: [AdeyemiAdetilewa.com](https://adeyemiadetilewa.com),
-- Publications: 
+- Personal Website: [AdeyemiAdetilewa.com](https://adeyemiadetilewa.com)
+- Publications: [HuffPost](#), 
 
 ## 📂 Structure
 - [Case Studies](./case-studies)
