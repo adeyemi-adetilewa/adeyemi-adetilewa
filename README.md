@@ -2,10 +2,10 @@
 
 # Adeyemi Adetilewa
 
-**Content Marketing Strategist | B2B SaaS SEO Specialist | AI-Driven Vibe Coder**  
+**Content Marketing Strategist | B2B SaaS SEO Specialist | Vibe Coder**  
 
-I build AI-powered growth systems, SEO frameworks, and content-led digital products.  
-This repository documents my execution layer — experiments, frameworks, case studies, and professional credentials.
+I build growth systems, SEO frameworks, and content-led digital products.  
+This repository documents my execution layer: experiments, frameworks, case studies, and professional credentials.
 
 ---
 
