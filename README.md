@@ -45,9 +45,7 @@ This repository documents my execution layer: experiments, frameworks, case stud
 
 ## 💡 Philosophy
 
-Traffic is rented.  
-Authority is built.  
-Systems scale.  
+Traffic is rented, authority is built, and systems scale.  
 
 I focus on building assets that compound over time.
 
@@ -55,7 +53,8 @@ I focus on building assets that compound over time.
 
 ## 📬 Connect with Me
 
-- LinkedIn: [My LinkedIn](https://linkedin.com/in/adeyemi-adetilewa)  
+- LinkedIn: [My LinkedIn](https://linkedin.com/in/adeyemi-adetilewa)
+- YouTube: [My YouTube](https://youtube.com/@MrAdetilewa) 
 - Newsletter: [The Digital Strategist](#)  
 - Personal Website: [AdeyemiAdetilewa.com](https://adeyemiadetilewa.com)
 - Publications: [HuffPost](#), 
