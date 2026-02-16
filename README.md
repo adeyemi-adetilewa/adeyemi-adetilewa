@@ -53,9 +53,9 @@ I focus on building assets that compound over time.
 
 ## 📬 Connect with Me
 
-- LinkedIn: [My LinkedIn](https://linkedin.com/in/adeyemi-adetilewa)
-- YouTube: [My YouTube](https://youtube.com/@MrAdetilewa) 
-- Newsletter: [The Digital Strategist](#)  
+- LinkedIn: [Connect with me on LinkedIn](https://linkedin.com/in/adeyemi-adetilewa)
+- YouTube: [Subscribe to my YouTube channel](https://youtube.com/@MrAdetilewa) 
+- Substack Newsletter: [Subscribe to The Digital Strategist Newsletter](#)  
 - Personal Website: [AdeyemiAdetilewa.com](https://adeyemiadetilewa.com)
 - Publications: [HuffPost](#), 
 
