@@ -56,9 +56,9 @@ I focus on building assets that compound over time.
 - LinkedIn: [Connect with me on LinkedIn](https://linkedin.com/in/adeyemi-adetilewa)
 - YouTube: [Subscribe to my YouTube channel](https://youtube.com/@MrAdetilewa)
 - X / Twitter: [Follow me on X](https://x.com/MrAdetilewa) 
-- Substack Newsletter: [Subscribe to The Digital Strategist Newsletter](#)  
+- Substack Newsletter: [Subscribe to The Digital Strategist Newsletter](https://substack.com/@adeyemiadetilewa)  
 - Personal Website: [AdeyemiAdetilewa.com](https://adeyemiadetilewa.com)
-- Publications: [HuffPost](#), [HuffPost](#), [HuffPost](#), [HuffPost](#), [HuffPost](#), [HuffPost](#), 
+- Publications: [HuffPost](#), [Hackernoon](#), [Buzzfeed](#), [The Good Men Project](#), [Addicted2Success](#), [Medium](#), [dev.to](#), [hashnode](#)
 
 ## 📂 Structure
 - [Case Studies](./case-studies)
