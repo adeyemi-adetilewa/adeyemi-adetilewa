@@ -54,10 +54,11 @@ I focus on building assets that compound over time.
 ## 📬 Connect with Me
 
 - LinkedIn: [Connect with me on LinkedIn](https://linkedin.com/in/adeyemi-adetilewa)
-- YouTube: [Subscribe to my YouTube channel](https://youtube.com/@MrAdetilewa) 
+- YouTube: [Subscribe to my YouTube channel](https://youtube.com/@MrAdetilewa)
+- X / Twitter: [Follow me on X](https://x.com/MrAdetilewa) 
 - Substack Newsletter: [Subscribe to The Digital Strategist Newsletter](#)  
 - Personal Website: [AdeyemiAdetilewa.com](https://adeyemiadetilewa.com)
-- Publications: [HuffPost](#), 
+- Publications: [HuffPost](#), [HuffPost](#), [HuffPost](#), [HuffPost](#), [HuffPost](#), [HuffPost](#), 
 
 ## 📂 Structure
 - [Case Studies](./case-studies)
