@@ -72,9 +72,9 @@ The focus is on creating durable digital assets that compound in traffic, trust,
 
 ---
 
-## 📰 Publications & Author Profiles
+## 📰 Thought Leadership, Publications & Author Profiles
 
-I have contributed to the following platforms:
+Selected publications:
 
 - [HuffPost](https://www.huffpost.com/author/stojay008-802)  
 - [Hackernoon](https://hackernoon.com/u/adeyemiadetilewa)  
@@ -88,6 +88,8 @@ I have contributed to the following platforms:
 - [Tweak Your Biz](https://tweakyourbiz.com/posts/author/adeyemiadetilewa)  
 
 Topics include SaaS, digital marketing, SEO, AI tools, productivity, entrepreneurship, and business growth.
+
+Accepted Member: ForbesBLK (Forbes’ global community for entrepreneurs and professionals)
 
 ---
 
