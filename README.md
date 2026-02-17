@@ -1,36 +1,46 @@
 # Adeyemi Adetilewa  
-**Content Marketing Strategist | B2B SaaS SEO Specialist | AI Growth Builder**
-
-Adeyemi Adetilewa is a Content Marketing Strategist, B2B SaaS Writer, and SEO Specialist with  11 years of experience building organic growth systems, authority-driven content platforms, and scalable digital assets.
-
-He specializes in SEO strategy, product-led content, AI-assisted workflows, and long-form content frameworks that drive traffic, leads, and brand positioning.
-
-This repository functions as his professional growth engine. It documents frameworks, experiments, case studies, credentials, and systems designed for sustainable organic visibility.
+**SEO Manager | Content Marketing Manager | B2B SaaS & Fintech Growth Strategist**
 
 ---
 
-## 🧠 B2B SaaS SEO & Content Strategy Expertise
+Adeyemi Adetilewa is an SEO Manager and Content Marketing Manager with over 10 years of hands-on experience driving organic growth for B2B SaaS, fintech, ecommerce, AI, and digital-first brands.
 
-I work at the intersection of:
+He builds SEO-led acquisition systems, AI-powered content workflows, and structured optimisation programs that improve rankings, traffic, conversions, and long-term brand authority.
 
-- B2B SaaS content marketing  
-- SEO growth strategy  
-- AI-powered content systems  
-- Authority site building  
-- Product-led organic growth  
+This repository documents his execution layer: SEO frameworks, AEO/GEO experiments, case studies, multi-brand growth systems, and professional credentials.
+
+---
+
+## What I Do
+
+### SEO Strategy & Organic Growth
+
+- Advanced keyword research and keyword mapping  
+- On-page optimisation (HTML structure, headings, internal linking)  
+- Site architecture and crawl optimisation  
+- Content audits and structured refresh programs  
+- SEO recovery after Google algorithm updates  
+- Multi-brand SEO roadmap planning and prioritisation  
+- GA4, Google Search Console, Ahrefs, SEMrush reporting  
+
+### AI-Driven Search (AEO & GEO)
+
 - Answer Engine Optimization (AEO)  
 - Generative Engine Optimization (GEO)  
+- Entity-based SEO and brand profiling  
+- LLM-aware content optimisation  
+- AI-assisted SERP and competitor analysis  
+- AI workflow acceleration using ChatGPT, Gemini, Grok, Claude  
 
-My approach prioritizes long-term compounding visibility over short-term traffic spikes.
+### Content & Demand Generation
 
-### Core Capabilities
-
-- Technical and on-page SEO optimization  
-- Content architecture and topic clustering  
-- Editorial systems and content pipelines  
-- AI automation for scalable content production  
-- Organic growth systems for SaaS and marketplaces  
-- Strategic storytelling for B2B brands  
+- B2B SaaS and fintech content strategy  
+- Gated content (ebooks, whitepapers, lead magnets)  
+- Email marketing and nurture campaigns  
+- LinkedIn thought leadership distribution  
+- Conversion-focused landing pages and blog content  
+- Funnel-aligned editorial planning  
+- HubSpot-aligned content systems  
 
 ---
 
@@ -42,7 +52,15 @@ My approach prioritizes long-term compounding visibility over short-term traffic
 | **AI-Powered Content System** | Modular workflow integrating generative AI, editorial oversight, and SEO optimization |
 | **AEO/GEO Experiments** | Structured content testing for visibility in answer engines and generative platforms |
 
-More documented builds are available in [PROJECTS.md](./PROJECTS.md).
+---
+## Certifications
+
+- Career Essentials in Generative AI — Microsoft & LinkedIn (2025)  
+- A Content Marketer's Guide to Responsible AI — LinkedIn (2025)  
+- Ethics in the Age of Generative AI — LinkedIn (2025)  
+- Introduction to Prompt Engineering for Generative AI — LinkedIn (2025)  
+- Content Marketing — HubSpot Academy (2017)  
+- Fundamentals of Digital Marketing — Google / IAB Europe (2017)  
 
 ---
 
