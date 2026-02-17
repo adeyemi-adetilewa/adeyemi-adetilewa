@@ -44,34 +44,6 @@ This repository documents his execution layer: SEO frameworks, AEO/GEO experimen
 
 ---
 
-## ⚡ Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| **SaaS Directory Platform** | SEO-driven SaaS discovery platform built for organic visibility and scalable category architecture |
-| **AI-Powered Content System** | Modular workflow integrating generative AI, editorial oversight, and SEO optimization |
-| **AEO/GEO Experiments** | Structured content testing for visibility in answer engines and generative platforms |
-
----
-## Certifications
-
-- Career Essentials in Generative AI — Microsoft & LinkedIn (2025)  
-- A Content Marketer's Guide to Responsible AI — LinkedIn (2025)  
-- Ethics in the Age of Generative AI — LinkedIn (2025)  
-- Introduction to Prompt Engineering for Generative AI — LinkedIn (2025)  
-- Content Marketing — HubSpot Academy (2017)  
-- Fundamentals of Digital Marketing — Google / IAB Europe (2017)  
-
----
-
-## 🧭 Content Marketing Philosophy
-
-Traffic is rented, authority is built, and systems scale.
-
-The focus is on creating durable digital assets that compound in traffic, trust, and leverage.
-
----
-
 ## 📰 Thought Leadership, Publications & Author Profiles
 
 Selected publications:
