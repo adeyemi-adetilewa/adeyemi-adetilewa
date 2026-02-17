@@ -61,7 +61,7 @@ Selected publications:
 
 Topics include SaaS, digital marketing, SEO, AI tools, productivity, entrepreneurship, and business growth.
 
-Accepted Member: ForbesBLK (Forbes’ global community for entrepreneurs and professionals)
+Accepted Member of ForbesBLK (Forbes’ global community for entrepreneurs and professionals)
 
 ---
 
