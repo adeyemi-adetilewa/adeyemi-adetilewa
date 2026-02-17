@@ -58,7 +58,7 @@ I focus on building assets that compound over time.
 - X / Twitter: [Follow me on X](https://x.com/MrAdetilewa) 
 - Substack Newsletter: [Subscribe to The Digital Strategist Newsletter](https://substack.com/@adeyemiadetilewa)  
 - Personal Website: [AdeyemiAdetilewa.com](https://adeyemiadetilewa.com)
-- Publications: [HuffPost](https://www.huffpost.com/author/stojay008-802), [Hackernoon](https://hackernoon.com/u/adeyemiadetilewa), [Buzzfeed](https://www.buzzfeed.com/adeyemi), [The Good Men Project](https://goodmenproject.com/author/adeyemi-adetilewa/), [Addicted2Success](https://addicted2success.com/author/adeyemiadetilewa/), [Medium](https://adeyemiadetilewa.medium.com/), [dev.to](https://dev.to/adeyemi-adetilewa), [hashnode](https://hashnode.com/@adeyemi-adetilewa)
+- Publications: [HuffPost](https://www.huffpost.com/author/stojay008-802), [Hackernoon](https://hackernoon.com/u/adeyemiadetilewa), [Buzzfeed](https://www.buzzfeed.com/adeyemi), [The Good Men Project](https://goodmenproject.com/author/adeyemi-adetilewa/), [Addicted2Success](https://addicted2success.com/author/adeyemiadetilewa/), [Medium](https://adeyemiadetilewa.medium.com/), [dev.to](https://dev.to/adeyemi-adetilewa), [hashnode](https://hashnode.com/@adeyemi-adetilewa), [Thrive Global](https://community.thriveglobal.com/author/adeyemi-adetilewa/), [Tweak Your Biz](https://tweakyourbiz.com/posts/author/adeyemiadetilewa).
 
 ## 📂 Structure
 - [Case Studies](./case-studies)
