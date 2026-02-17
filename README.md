@@ -1,18 +1,11 @@
 # Adeyemi Adetilewa  
 **Content Marketing Strategist | B2B SaaS SEO Specialist | AI Growth Builder**
 
-Adeyemi Adetilewa is a Content Marketing Strategist, B2B SaaS Writer, and SEO Specialist with over 10 years of experience building organic growth systems, authority-driven content platforms, and scalable digital assets.
+Adeyemi Adetilewa is a Content Marketing Strategist, B2B SaaS Writer, and SEO Specialist with  11 years of experience building organic growth systems, authority-driven content platforms, and scalable digital assets.
 
 He specializes in SEO strategy, product-led content, AI-assisted workflows, and long-form content frameworks that drive traffic, leads, and brand positioning.
 
 This repository functions as his professional growth engine. It documents frameworks, experiments, case studies, credentials, and systems designed for sustainable organic visibility.
-
----
-
-## 🚀 What I’m Building Now
-
-- [NOW.md](./NOW.md) — What I’m currently building, optimizing, and learning  
-- [PROJECTS.md](./PROJECTS.md) — Index of live and experimental projects  
 
 ---
 
@@ -53,45 +46,9 @@ More documented builds are available in [PROJECTS.md](./PROJECTS.md).
 
 ---
 
-## 📊 Case Studies, Frameworks & Experiments
-
-This repository showcases documented execution.
-
-### 📁 Case Studies  
-[View Case Studies](./case-studies)  
-Strategic implementations, structural decisions, and measurable outcomes.
-
-### 🧪 Experiments  
-[View Experiments](./experiments)  
-AI, SEO, automation, and visibility testing environments.
-
-### 🏗 Frameworks  
-[View Frameworks](./frameworks)  
-Reusable systems for traffic acquisition, authority building, and scalable content operations.
-
----
-
-## 🎓 Professional Credentials
-
-The [Resume Folder](./resume) includes specialized resumes in:
-
-- AI Growth Strategist  
-- Content Marketing Strategist  
-- SEO Manager  
-
----
-
-## 🗂 Assets
-
-[Assets Folder](./assets) — Diagrams, screenshots, workflow maps, and visual documentation.
-
----
-
 ## 🧭 Content Marketing Philosophy
 
-Traffic is rented.  
-Authority is built.  
-Systems scale.
+Traffic is rented, authority is built, and systems scale.
 
 The focus is on creating durable digital assets that compound in traffic, trust, and leverage.
 
@@ -125,8 +82,4 @@ Topics include SaaS, digital marketing, SEO, AI tools, productivity, entrepreneu
 - [Personal Website](https://adeyemiadetilewa.com)  
 
 For partnerships, collaboration, or B2B SaaS growth consulting, connect via LinkedIn or through my website.
-
----
-
-## 📂 Repository Structure
 
