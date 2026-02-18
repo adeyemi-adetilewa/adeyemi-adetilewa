@@ -1,5 +1,5 @@
 # Adeyemi Adetilewa  
-**SEO Manager | Content Marketing Manager | B2B SaaS & Fintech Growth Strategist**
+**SEO Manager | Content Marketing Specialist | B2B SaaS Growth Strategist**
 
 ---
 
